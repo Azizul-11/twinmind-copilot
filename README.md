@@ -2,7 +2,7 @@
 
 🎥 **[Watch the 4-Minute Demo & Architecture Breakdown on Loom](https://www.loom.com/share/6c8971bac9f345e886f9b9a0cd9c214b)** 🎥
 
-**Live Demo:** [https://twinmindco.netlify.app](https://twinmindco.netlify.app)  
+# **Live Demo:** [https://twinmindco.netlify.app](https://twinmindco.netlify.app)  
 *(Note: You will need your own Groq API key to test the live demo)*
 
 ---
