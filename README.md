@@ -129,5 +129,4 @@ npm run dev
 * Requires a valid Groq API key to function.
 * Works best in Chromium-based browsers for optimal MediaRecorder support.
 * Optimized for real-time interaction and low latency.
-```
 
